@@ -14,3 +14,8 @@ body {
     color: white;
     transition-duration: 0.5s;
 }
+
+.leftAlign {
+    display: flex;
+        flex-direction: column;
+}
