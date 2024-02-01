@@ -5,8 +5,11 @@ body {
 .gameButton {
     font-size: 20px;
     padding: 20px;
-    border-radius: 15px;
+    border-radius: 20px;
     border: 5px outset black;
+    text-align: center;
+    height: 100px;
+    width: 500px;
 }
 
 .gameButton:hover {
