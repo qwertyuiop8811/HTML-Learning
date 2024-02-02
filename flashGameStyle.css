@@ -6,5 +6,5 @@
 
 .flashGameChild {
     flex-grow: 1;
-    aspect-ratio: auto;
+    aspect-ratio: 1/1;
 }
