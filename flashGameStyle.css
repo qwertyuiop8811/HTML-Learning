@@ -1,10 +1,13 @@
 .flashGameParent {
-    display: flex;
+    position: absolute;
+    left: 0;
+    top: 0;
     height: 100%;
     width: 100%;
 }
 
 .flashGameChild {
-    flex-grow: 1;
-    aspect-ratio: auto;
+    margin: auto;
+    max-height: 100%;
+    aspect-ratio: 1/1;
 }
