@@ -1,5 +1,6 @@
 body {
     background-color: darkgray;
+    background-image: url(image.jpg);
 }
 
 .gameButton {
