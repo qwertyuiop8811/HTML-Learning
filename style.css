@@ -22,4 +22,22 @@ body {
 .leftAlign {
     display: flex;
         flex-direction: column;
+    align-items: center;
+}
+.mainButton {
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 5px outset black;
+    text-align: center;
+    height: 100px;
+    width: 500px;
+    align-self: center;
+}
+.topHeader {
+    background-color: black;
+    opacity: 50%;
+    padding: 20px;
+    border-radius: 30px;
+    display: flex;
 }
